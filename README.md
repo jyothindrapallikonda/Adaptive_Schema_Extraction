@@ -24,10 +24,12 @@ In the final stage, we introduced a more refined approach using Region of Intere
 **Approach**: Custom ROI setup for each engineering drawing, extracting labeled data to Excel.  
 **Outcome:** The extraction became more adaptable to different kinds of engineering drawings because of the ability to adjust ROIs and prioritize areas of the image.
 
-**Try it out**
+**Try it out** @ https://adaptiveschemaextraction-4qf2ry7zxvpisblv3zdiqd.streamlit.app/
 
 
-https://github.com/user-attachments/assets/ae6c8c06-0ad6-49db-9ec6-df6e367d592d
+https://github.com/user-attachments/assets/5abeaf65-94ab-4a1b-a595-d105baefaeed
+
+
 
 
 **Key Benefits:**  
